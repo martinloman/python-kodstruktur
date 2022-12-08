@@ -6,6 +6,8 @@
 #   - underhålla, kod som är lätt att förstå har färre buggar
 #   - felsöka, med tydliga namn blir det tydligare om något blir fel
 #
+#
+# Denna namngivning baseras på: https://realpython.com/python-pep8/#naming-styles
 
 # variabler namnges med små bokstäver
 variabel = 1337
@@ -33,3 +35,15 @@ def funktion(parameter_1, parameter_2):
 
 def funktion_med_långt_namn(parameter_1, parameter_2):
     return
+
+
+# Klasser ska namnges med inledande stor bokstav.
+class Person():
+    pass
+
+# En klass med namn som består av flera ord använder så kallad PascalCase.
+# Orden separeras med stor bokstav.
+
+
+class FireMonster():
+    pass
