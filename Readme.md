@@ -1,3 +1,3 @@
-### Kodstruktur
+### Kodstruktur Python
 
 För Åva gymnasium.

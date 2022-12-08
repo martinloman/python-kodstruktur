@@ -3,7 +3,7 @@
 # --------------------------
 # Moduler är filer med kod.
 # Du kan lägga kod i en fil och sedan importera den modulen i en
-# annan fil och anropa kod (variabler och ).
+# annan fil och anropa kod (variabler och funktioner).
 #
 # Moduler är ett bra sätt att struktera kod. Det är lämpligt att
 # skapa moduler för att inte ha all kod i samma fil, då blir det ofta
